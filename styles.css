@@ -1,0 +1,64 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #000;
+}
+
+h1{
+    color: #00ff00;
+    margin: 5px 0 10px 0;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    color: #00ff00;
+    font-size: 30px;
+    margin-left: 60px;
+    
+    
+}
+
+.first-paragraph {
+    
+    color: blueviolet;
+    margin: 30px 200px 30px 40px;
+}
+
+.my-goals {
+    color: #00ff00;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+ul{
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+.code-clube {
+    color: #00ff00;
+    font-size: 30px;
+    margin: 20px 0;
+    text-align: center;
+    
+}
+
+ol{
+    text-align: center;
+    color: blueviolet;
+}
+
+
+img {
+    border: 2px solid blueviolet;
+    border-radius: 6px;
+    width: 150px;
+    height: 150px;
+    margin: 1px 30px;
+}
+ 
