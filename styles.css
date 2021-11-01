@@ -24,6 +24,7 @@ h3 {
     
     color: blueviolet;
     margin: 30px 200px 30px 40px;
+    font-size: 25px;
 }
 
 .my-goals {
@@ -37,6 +38,7 @@ h3 {
 ul{
     text-align: center;
     color: blueviolet;
+    font-size: 25px;
     
 }
 
@@ -51,14 +53,15 @@ ul{
 ol{
     text-align: center;
     color: blueviolet;
+    font-size: 25px;
 }
 
 
 img {
     border: 2px solid blueviolet;
     border-radius: 6px;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     margin: 1px 30px;
 }
  
